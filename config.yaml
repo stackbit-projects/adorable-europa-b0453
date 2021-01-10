@@ -6,7 +6,7 @@ params:
     title: Starter
     has_nav: true
     nav_links:
-      - label: Features
+      - label: Series
         url: /features
         style: link
       - label: Blog

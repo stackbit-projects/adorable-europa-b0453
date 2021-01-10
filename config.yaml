@@ -12,7 +12,7 @@ params:
       - label: Abonnementen
         url: /blog
         style: link
-      - label: About
+      - label: Over
         url: /about
         style: link
       - label: Style Guide
